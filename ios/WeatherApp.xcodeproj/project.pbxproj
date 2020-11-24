@@ -20,22 +20,6 @@
 		BF3BCBF496E48D0D11EA20E9 /* libPods-WeatherApp-WeatherAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 16A8287EDD1CFF6225271EB3 /* libPods-WeatherApp-WeatherAppTests.a */; };
 		DA0A2C6251F95D66DDA48D7C /* libPods-WeatherApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF4025A096C833FE9D8BFCEF /* libPods-WeatherApp.a */; };
 		F7C7262D0857CF44BAA12D6A /* libPods-WeatherApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2F4477E75FA154D5C97C0F2 /* libPods-WeatherApp-tvOSTests.a */; };
-		82640159F9544FFCB17A13E9 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B9062FDB7E14A75A61163F3 /* AntDesign.ttf */; };
-		6B75BA6CEB694C939442D928 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6AC8472A78594AC3AA69930B /* Entypo.ttf */; };
-		61D4649BECB9410885FD7BED /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DBEF697AC104936B000543D /* EvilIcons.ttf */; };
-		473452871AF24A87BF8302F3 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34BC336DA88E4F159C096662 /* Feather.ttf */; };
-		B0AFCEEA9993442A9203A5B9 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B687A99FAA94427B963AEB06 /* FontAwesome.ttf */; };
-		A4E6C841CB614EE593A5FC60 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD86B94EC9C6456FB81AF66B /* FontAwesome5_Brands.ttf */; };
-		76694A16636B4313BB592F55 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABDA8894F2094CF08AB30CD2 /* FontAwesome5_Regular.ttf */; };
-		13CABFD8B78F4AE3B93667FE /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C592763C510646829476C78C /* FontAwesome5_Solid.ttf */; };
-		2FA755EE969442C9BE129A20 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBEA1CDED65543A0A60C4C72 /* Fontisto.ttf */; };
-		421176AC93FC4F08B1E0F959 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 10B9A569868A46A9935319F2 /* Foundation.ttf */; };
-		A72EBEAF24B541D99393E617 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E2C4D572B6AB478AAC4398B7 /* Ionicons.ttf */; };
-		775EA9CB9A93427BA5682971 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 678D7B10922D4255B8366529 /* MaterialCommunityIcons.ttf */; };
-		E4F3EC70E2FC435FA3AF27C4 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B59C001EDA74A38A3E67B39 /* MaterialIcons.ttf */; };
-		0BAA264014664D77AE250851 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDB092B0DE8446818ED83091 /* Octicons.ttf */; };
-		7EAD0A52923C4096B8A5E18F /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EC10EE211124083B6A17D7F /* SimpleLineIcons.ttf */; };
-		A5619D1613C04C23B14F79B3 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 351968CD6E344D78895973ED /* Zocial.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,7 +45,9 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* WeatherAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeatherAppTests.m; sourceTree = "<group>"; };
 		01C303593CA7C0834A442839 /* Pods-WeatherApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-WeatherApp-tvOS/Pods-WeatherApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		0B59C001EDA74A38A3E67B39 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		0BE3E2F1F3D70515CD582D8C /* Pods-WeatherApp-WeatherAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-WeatherAppTests.debug.xcconfig"; path = "Target Support Files/Pods-WeatherApp-WeatherAppTests/Pods-WeatherApp-WeatherAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		10B9A569868A46A9935319F2 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = WeatherApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = WeatherApp/AppDelegate.m; sourceTree = "<group>"; };
@@ -74,31 +60,29 @@
 		2D02E4901E0B4A5D006451C7 /* WeatherApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WeatherApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3047B71D41AFDFD0C36EBDAB /* Pods-WeatherApp-WeatherAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-WeatherAppTests.release.xcconfig"; path = "Target Support Files/Pods-WeatherApp-WeatherAppTests/Pods-WeatherApp-WeatherAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		318669A7555A6D2660F7059C /* libPods-WeatherApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		34BC336DA88E4F159C096662 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		351968CD6E344D78895973ED /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		4EC10EE211124083B6A17D7F /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		63DBF3D0D53EAFC81AD52992 /* Pods-WeatherApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-WeatherApp-tvOSTests/Pods-WeatherApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		678D7B10922D4255B8366529 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		6AC8472A78594AC3AA69930B /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		7B9062FDB7E14A75A61163F3 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WeatherApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81F6DFE1B5127202198DB54A /* Pods-WeatherApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-WeatherApp-tvOSTests/Pods-WeatherApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		8DBEF697AC104936B000543D /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		9797DD9259FC8C97D47B0998 /* Pods-WeatherApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp.release.xcconfig"; path = "Target Support Files/Pods-WeatherApp/Pods-WeatherApp.release.xcconfig"; sourceTree = "<group>"; };
+		ABDA8894F2094CF08AB30CD2 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		B687A99FAA94427B963AEB06 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		BD86B94EC9C6456FB81AF66B /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		C592763C510646829476C78C /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		CDB092B0DE8446818ED83091 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		DCA83A6409DBABF17EB19855 /* Pods-WeatherApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherApp.debug.xcconfig"; path = "Target Support Files/Pods-WeatherApp/Pods-WeatherApp.debug.xcconfig"; sourceTree = "<group>"; };
+		E2C4D572B6AB478AAC4398B7 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		E2F4477E75FA154D5C97C0F2 /* libPods-WeatherApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBEA1CDED65543A0A60C4C72 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		FF4025A096C833FE9D8BFCEF /* libPods-WeatherApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7B9062FDB7E14A75A61163F3 /* AntDesign.ttf */ = {isa = PBXFileReference; name = "AntDesign.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6AC8472A78594AC3AA69930B /* Entypo.ttf */ = {isa = PBXFileReference; name = "Entypo.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		8DBEF697AC104936B000543D /* EvilIcons.ttf */ = {isa = PBXFileReference; name = "EvilIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		34BC336DA88E4F159C096662 /* Feather.ttf */ = {isa = PBXFileReference; name = "Feather.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B687A99FAA94427B963AEB06 /* FontAwesome.ttf */ = {isa = PBXFileReference; name = "FontAwesome.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BD86B94EC9C6456FB81AF66B /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Brands.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		ABDA8894F2094CF08AB30CD2 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Regular.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C592763C510646829476C78C /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Solid.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EBEA1CDED65543A0A60C4C72 /* Fontisto.ttf */ = {isa = PBXFileReference; name = "Fontisto.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		10B9A569868A46A9935319F2 /* Foundation.ttf */ = {isa = PBXFileReference; name = "Foundation.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E2C4D572B6AB478AAC4398B7 /* Ionicons.ttf */ = {isa = PBXFileReference; name = "Ionicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		678D7B10922D4255B8366529 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; name = "MaterialCommunityIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		0B59C001EDA74A38A3E67B39 /* MaterialIcons.ttf */ = {isa = PBXFileReference; name = "MaterialIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CDB092B0DE8446818ED83091 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4EC10EE211124083B6A17D7F /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		351968CD6E344D78895973ED /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,23 +199,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D98FDBB91D3C5950A0E61EA4 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				DCA83A6409DBABF17EB19855 /* Pods-WeatherApp.debug.xcconfig */,
-				9797DD9259FC8C97D47B0998 /* Pods-WeatherApp.release.xcconfig */,
-				0BE3E2F1F3D70515CD582D8C /* Pods-WeatherApp-WeatherAppTests.debug.xcconfig */,
-				3047B71D41AFDFD0C36EBDAB /* Pods-WeatherApp-WeatherAppTests.release.xcconfig */,
-				01C303593CA7C0834A442839 /* Pods-WeatherApp-tvOS.debug.xcconfig */,
-				23E93C8F364D4C5188C2AE7C /* Pods-WeatherApp-tvOS.release.xcconfig */,
-				63DBF3D0D53EAFC81AD52992 /* Pods-WeatherApp-tvOSTests.debug.xcconfig */,
-				81F6DFE1B5127202198DB54A /* Pods-WeatherApp-tvOSTests.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		A1364A9CCC4B4D7BB3752D06 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				7B9062FDB7E14A75A61163F3 /* AntDesign.ttf */,
 				6AC8472A78594AC3AA69930B /* Entypo.ttf */,
@@ -252,7 +221,21 @@
 			);
 			name = Resources;
 			sourceTree = "<group>";
-			path = "";
+		};
+		D98FDBB91D3C5950A0E61EA4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DCA83A6409DBABF17EB19855 /* Pods-WeatherApp.debug.xcconfig */,
+				9797DD9259FC8C97D47B0998 /* Pods-WeatherApp.release.xcconfig */,
+				0BE3E2F1F3D70515CD582D8C /* Pods-WeatherApp-WeatherAppTests.debug.xcconfig */,
+				3047B71D41AFDFD0C36EBDAB /* Pods-WeatherApp-WeatherAppTests.release.xcconfig */,
+				01C303593CA7C0834A442839 /* Pods-WeatherApp-tvOS.debug.xcconfig */,
+				23E93C8F364D4C5188C2AE7C /* Pods-WeatherApp-tvOS.release.xcconfig */,
+				63DBF3D0D53EAFC81AD52992 /* Pods-WeatherApp-tvOSTests.debug.xcconfig */,
+				81F6DFE1B5127202198DB54A /* Pods-WeatherApp-tvOSTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -399,22 +382,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				82640159F9544FFCB17A13E9 /* AntDesign.ttf in Resources */,
-				6B75BA6CEB694C939442D928 /* Entypo.ttf in Resources */,
-				61D4649BECB9410885FD7BED /* EvilIcons.ttf in Resources */,
-				473452871AF24A87BF8302F3 /* Feather.ttf in Resources */,
-				B0AFCEEA9993442A9203A5B9 /* FontAwesome.ttf in Resources */,
-				A4E6C841CB614EE593A5FC60 /* FontAwesome5_Brands.ttf in Resources */,
-				76694A16636B4313BB592F55 /* FontAwesome5_Regular.ttf in Resources */,
-				13CABFD8B78F4AE3B93667FE /* FontAwesome5_Solid.ttf in Resources */,
-				2FA755EE969442C9BE129A20 /* Fontisto.ttf in Resources */,
-				421176AC93FC4F08B1E0F959 /* Foundation.ttf in Resources */,
-				A72EBEAF24B541D99393E617 /* Ionicons.ttf in Resources */,
-				775EA9CB9A93427BA5682971 /* MaterialCommunityIcons.ttf in Resources */,
-				E4F3EC70E2FC435FA3AF27C4 /* MaterialIcons.ttf in Resources */,
-				0BAA264014664D77AE250851 /* Octicons.ttf in Resources */,
-				7EAD0A52923C4096B8A5E18F /* SimpleLineIcons.ttf in Resources */,
-				A5619D1613C04C23B14F79B3 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -796,7 +763,9 @@
 				DEVELOPMENT_TEAM = Z379NT98P3;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				NEW_SETTING = "";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -819,7 +788,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z379NT98P3;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				NEW_SETTING = "";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",

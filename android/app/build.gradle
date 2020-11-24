@@ -151,6 +151,12 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+        release {
+            storeFile file('weather_app_key.keystore')
+            storePassword 'password'
+            keyAlias 'wapp_key'
+            keyPassword 'password'
+        }
     }
     buildTypes {
         debug {

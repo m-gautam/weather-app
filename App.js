@@ -10,6 +10,7 @@ import {
   ImageBackground,
   ActivityIndicator,
   RefreshControl,
+  StatusBar,
 } from 'react-native';
 import QRCodeScanner from 'react-native-qrcode-scanner';
 import Snackbar from 'react-native-snackbar';
@@ -88,7 +89,7 @@ const App = () => {
 
   const fetchTemp = async (city) => {
     const response = await fetch(
-      `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_key}&units=metric`,
+      `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_key}&units=metric`,
     );
     const resJson = await response.json();
 
@@ -156,6 +157,7 @@ const App = () => {
             />
           }>
           <ImageBackground style={styles.background} source={Background}>
+            <StatusBar backgroundColor="blue" barStyle="dark-content" />
             <View style={styles.iconView}>
               <Icon
                 name="refresh"
